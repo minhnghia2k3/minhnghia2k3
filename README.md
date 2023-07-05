@@ -25,11 +25,7 @@ const minh_nghia = {
   gender: 🙋‍♂️,
   languages: [🇻🇳, 🇺🇸],
   hobbies: [🏋️‍♂️, 👨‍💻, ⛹️‍♂️],
-  👨‍🎓: {
-    currentlyWorking: ["DNTU", "MindX"],
-    workedAt: ["QTC"]
-  }
- 🧠: "I am still studying to develop my own website!"
+ 🧠: "Life is a Program and we all programmed for it"
 }
 ```
 
