@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there - minhnghia2k3 here 👋 </h1>
 
 <div style="display:flex;align-items:center"><img src="https://github.com/minhnghia2k3/minhnghia2k3/blob/main/src/Cat%20Coding%20GIF%20-%20Find%20&%20Share%20on%20GIPHY.gif?raw=true"
-style="width:100vw; height:40vh"></div>
+style="width:100vw; height:50vh"></div>
 
 <h1 align="center">👨‍💻 About me </h1>
 <br>
