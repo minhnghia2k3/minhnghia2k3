@@ -2,7 +2,7 @@
 
 <p><em>Currently study at <a href="https://ts.dntu.edu.vn/">Dong Nai Technology University</a>
 <!--   <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> -->
-<!-- </br>Programming Teacher at <a href="https://mindx.edu.vn/">MindX</a> -->
+</br>Programming Teacher at <a href="https://mindx.edu.vn/">MindX</a>
 <!--   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
 </em></p>
 
@@ -22,13 +22,13 @@ style="width:100vw; height:40vh"></div>
 
 ```javascript
 const minh_nghia = {
-  🙋‍♂️: male,
-  🇻🇳: [Vietnamese, English],
-  💪: [Gym, Calisthenics, Basketball, Coding]
-  👨‍💻: [Javascript, Typescript, Python],
+  gender: 🙋‍♂️
+  languages: [🇻🇳, 🇺🇸],
+  hobbies: [🏋️‍♂️, 👨‍💻, ⛹️‍♂️]
+  progLanguages: [Javascript, Typescript, Python],
   🛠: [ReactJS, Redux, NodeJS, NextJS, NestJS ,Docker],
   👨‍🎓: {
-    currentlyWorking: ["DNTU"],
+    currentlyWorking: ["DNTU", "MindX"],
     workedAt: ["QTC"]
   }
  🧠: "I am still studying to develop my own website !"
