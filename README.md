@@ -22,16 +22,14 @@ style="width:100vw; height:40vh"></div>
 
 ```javascript
 const minh_nghia = {
-  gender: 🙋‍♂️
+  gender: 🙋‍♂️,
   languages: [🇻🇳, 🇺🇸],
-  hobbies: [🏋️‍♂️, 👨‍💻, ⛹️‍♂️]
-  progLanguages: [Javascript, Typescript, Python],
-  🛠: [ReactJS, Redux, NodeJS, NextJS, NestJS ,Docker],
+  hobbies: [🏋️‍♂️, 👨‍💻, ⛹️‍♂️],
   👨‍🎓: {
     currentlyWorking: ["DNTU", "MindX"],
     workedAt: ["QTC"]
   }
- 🧠: "I am still studying to develop my own website !"
+ 🧠: "I am still studying to develop my own website!"
 }
 ```
 
