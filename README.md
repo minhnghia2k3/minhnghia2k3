@@ -66,8 +66,8 @@ const minh_nghia = {
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/minhnghia.le.777" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="minhnghia2k3-facebook" />
+  <a href="https://facebook.com/minhnghia.le.777" target="blank" width="70px" height="70px">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="minhnghia2k3-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/minhnghia2k3" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="minhnghia2k3-linkedin" />
