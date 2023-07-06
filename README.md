@@ -72,7 +72,7 @@ const minh_nghia = {
   <a href="https://www.linkedin.com/in/minhnghia2k3" target="blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="minhnghia2k3-linkedin" width="70px" height="70px"/>
   </a>
-  <a href="https://instagram.com/emnghia2k3" target="blank">
+  <a href="https://instagram.com/emnghia_2k3" target="blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="minhnghia2k3-instagram" width="70px" height="70px"/>
   </a>
   <a href="mailto:leminhnghia12c6@gmail.com" target="top">
