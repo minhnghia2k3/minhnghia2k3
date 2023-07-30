@@ -70,13 +70,13 @@ const minh_nghia = {
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-<a href="https://facebook.com/minhnghia.le.777" target="blank">
+<a href="https://facebook.com/minhnghia.le.777" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="minhnghia2k3-facebook" width="70px" height="70px" hspace="30"/>
 </a>
-<a href="https://www.linkedin.com/in/minhnghia2k3" target="blank">
+<a href="https://www.linkedin.com/in/minhnghia2k3" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="minhnghia2k3-linkedin" width="70px" height="70px" hspace="30"/>
 </a>
-<a href="https://instagram.com/emnghia_2k3" target="blank">
+<a href="https://instagram.com/emnghia_2k3" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="minhnghia2k3-instagram" width="70px" height="70px" hspace="30"/>
 </a>
 <a href="mailto:leminhnghia12c6@gmail.com" target="top">
