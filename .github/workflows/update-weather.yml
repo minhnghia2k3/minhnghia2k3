@@ -1,16 +1,11 @@
-# This is a basic workflow to help you get started with Actions
-
-name: Cronjob
-
-# Controls when the workflow will run
+name: "Cronjob"
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
   schedule:
     - cron: '15 * * * *'
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   update-weather:
+    permissions: write-all
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -24,13 +19,8 @@ jobs:
           out-file: 'README.md'
       - name: Commit
         run: |
-          if git diff --exit-code; then
-            echo "No changes to commit."
-            exit 0
-          else
-            git config user.name github-actions
-            git config user.email github-actions@github.com
-            git add .
-            git commit -m "update"
-            git push origin main
-          fi
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "update"
+          git push origin main
