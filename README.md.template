@@ -87,20 +87,8 @@ const minh_nghia = {
 <!-- <em><b>Thanks for visiting!</b> Collab me to make miracles 🤙</em> -->
 
 
-{{ with $todayWeather := index .Weathers 0 }}
+{{ template "hourly-table" $todayWeather.HourlyWeathers }}
 
-`{{ $todayWeather.City }}, {{$todayWeather.Country }} - {{ formatDate $todayWeather.StartTime $todayWeather.Timezone }}`
+{{ template "daily-table" .Weathers }}
 
-<img src="{{ $todayWeather.Icon}}"/>
-
-{{ $todayWeather.Condition }}
-
-{{template "hourly-table" $todayWeather.HourlyWeathers}}
-
-{{- end }}
-
-<div align="right">
-
-*Updated at: {{formatTime .UpdatedAt}} - by **[minhnghia2k3/weather-forecast](https://github.com/minhnghia2k3)***
-
-</div>
+{{ formatTime .UpdatedAt }}
